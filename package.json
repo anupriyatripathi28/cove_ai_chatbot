@@ -1,0 +1,18 @@
+{
+  "name": "files",
+  "version": "1.0.0",
+  "description": "Cove is a modern AI chatbot built with HTML, CSS, and JavaScript. It uses the Google Gemini API to generate AI responses and provides a clean, responsive chat interface.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
