@@ -1,6 +1,7 @@
 # ◈ Cove — AI Chatbot
 
-Cove is a modern AI chatbot built with HTML, CSS, and JavaScript. It uses the Google Gemini API to generate AI responses and provides a clean, responsive chat interface.
+Cove is a responsive AI chatbot web application built with HTML, CSS, and JavaScript. It uses the Google Gemini API to generate AI responses through a clean and interactive chat interface.
+
 
 ## ✨ Features
 
